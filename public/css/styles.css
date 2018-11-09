@@ -1,0 +1,74 @@
+li.active.nav-item{
+	background-color: #ddd;
+}
+
+ul.pagination{
+	justify-content: center;
+}
+
+.navbar{
+	padding: 0 1rem;
+	margin-bottom: 2rem;
+}
+
+.form-spacing-top{
+	margin-top: 30px;
+}
+
+.btn-see-all{
+	margin-top: 24px;
+}
+
+.btn-edit{
+	margin-left: 6px;
+}
+
+.comment{
+	margin-bottom: 35px;
+}
+
+.comments-title{
+	margin-bottom: 45px;
+}
+.comments-image{
+	height: 1em;
+	vertical-align: text-top;
+}
+
+.author-image {
+	height: 50px;
+	border-radius: 50%;
+	float: left;
+	background-color: #eee;
+}
+
+.author-name{
+	float: left;
+	margin-left: 15px;
+}
+
+.author-name>h4{
+	margin: 5px 0;
+}
+
+.author-time{
+	font-size: 11px;
+	font-style: italic;
+	color: #aaa;
+}
+
+.comment-content{
+	clear: both;
+	margin-left: 65px;
+	font-size: 16px;
+	line-height: 1.3em;
+}
+
+.posts-comments-edit,
+.posts-comments-delete{
+	font-size: 1.3em;
+}
+
+.posts-comments-delete{
+	color: #f22;
+}
