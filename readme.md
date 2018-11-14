@@ -1,3 +1,8 @@
+## About This Project
+
+This was a tutorial project I (Sander Buruma) made while following a DevMarketer tutorial.
+https://www.youtube.com/watch?v=R8B4og-BeCk&list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
